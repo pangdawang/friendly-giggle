@@ -3,8 +3,9 @@
   * @file    stm32f10x_tim.c
   * @author  MCD Application Team
   * @version V3.5.0
-  * @date    11-March-2011
+  * @date    11-March-2011---20221019——pandawangchange
   * @brief   This file provides all the TIM firmware functions.
+
   ******************************************************************************
   * @attention
   *
